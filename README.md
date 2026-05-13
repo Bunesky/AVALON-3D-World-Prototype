@@ -8,6 +8,7 @@
 4 Characters (Rigged)  
 4 Ambient Audio  
 5 Tracks  
+2 Vertical Sequences  
 1 Font (Symbolic Script)
 
 ## Preview
