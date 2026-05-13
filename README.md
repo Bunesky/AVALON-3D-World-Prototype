@@ -14,7 +14,7 @@ Experimental 3D world combining creatures, environments, characters, audio and v
 
 ## Preview
 
-![Preview](preview.png)
+![Preview](Preview.png)
 
 ## Access
 
