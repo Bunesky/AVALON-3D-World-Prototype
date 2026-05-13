@@ -1,7 +1,5 @@
 # AVALON 3D World Prototype
 
-Experimental 3D world combining creatures, environments, characters, audio and visual systems.
-
 ## Overview
 
 11 Creatures (+1)  
@@ -18,14 +16,15 @@ Experimental 3D world combining creatures, environments, characters, audio and v
 
 ## Access
 
-Assets available on request (free).
+Project open for collaboration (full content available on request).
+
 
 ## Links
 
-Website:  
+Website All Assets:  
 https://sites.google.com/view/bune-3d
 
-YouTube:  
+YouTube Showcase & Audio:  
 https://www.youtube.com/playlist?list=PLo5fLmIgPY1xbgTmO_U7H2xPNpFe5glVE
 
 Font:  
@@ -33,4 +32,10 @@ https://github.com/Bunesky/avalon-symbol-font
 
 ## Notes
 
-Avalon is an ongoing experimental project focused on building a complete world through modular assets and visual systems.
+Avalon is an ongoing experimental project focused on building a complete world through modular assets and visual systems, created using AI-assisted workflows.
+
+## Contact
+
+Bluesky:  
+https://bsky.app/profile/bune.bsky.social
+
