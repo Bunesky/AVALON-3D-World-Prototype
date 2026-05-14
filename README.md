@@ -1,7 +1,6 @@
 # AVALON 3D World Prototype
 
 ## Overview
-
 11 Creatures (+1)  
 8 Flora Assets  
 16 Structures  
@@ -9,7 +8,7 @@
 4 Ambient Audio  
 5 Tracks  
 2 Vertical Sequences  
-1 Font (Symbolic Script)
+1 Font (Symbolic Script)  
 1 Audio Web App
 
 ## Preview
