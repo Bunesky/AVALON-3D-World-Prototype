@@ -17,8 +17,7 @@
 
 ## Access
 
-Project open for collaboration (full content available on request).
-
+Assets available on request (free). Open for collaboration.
 
 ## Links
 
