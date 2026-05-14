@@ -10,7 +10,6 @@
 5 Tracks  
 2 Vertical Sequences  
 1 Font (Symbolic Script)
-
 1 Audio Web App
 
 ## Preview
@@ -19,7 +18,7 @@
 
 ## Access
 
-Assets available on request (free). Open for collaboration.
+Open for collaboration.
 
 ## Links
 
@@ -39,8 +38,8 @@ Source Code:
 https://github.com/Bunesky/avalon-symbol-audio
 
 ## Notes
+Avalon is an ongoing experimental project focused on building a complete 3D world through modular assets, visual systems, original audio, and its own symbolic language and writing system. All content has been created with the support of AI.
 
-Avalon is an ongoing experimental project focused on building a complete world through modular assets and visual systems, created using AI-assisted workflows.
 
 ## Contact
 
