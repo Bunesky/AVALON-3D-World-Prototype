@@ -13,7 +13,7 @@
 
 ## Preview
 
-![Preview](Preview.jpg)
+![Preview](Preview.png)
 
 ## Access
 
