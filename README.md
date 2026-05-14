@@ -33,7 +33,7 @@ https://github.com/Bunesky/avalon-symbol-font
 Live Audio App:
 https://bunesky.github.io/avalon-symbol-audio/
 
-Source Code:
+Audio App (Source):
 https://github.com/Bunesky/avalon-symbol-audio
 
 ## Notes
