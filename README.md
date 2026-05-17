@@ -30,8 +30,9 @@ https://www.youtube.com/playlist?list=PLo5fLmIgPY1xbgTmO_U7H2xPNpFe5glVE
 Font:  
 https://github.com/Bunesky/avalon-symbol-font
 
-Web Audio Language App: 
+Web audio language app:  
 https://bunesky.github.io/avalon-symbol-audio/
+
 
 
 ## Notes
