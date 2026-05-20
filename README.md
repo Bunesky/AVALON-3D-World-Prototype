@@ -11,11 +11,8 @@
 1 Font (Symbolic Script)  
 1 Audio Language Web App
 
-## Preview
 
 ![Preview](Preview.png)
-
-## Access
 
 Open for collaboration.
 
