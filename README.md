@@ -32,7 +32,6 @@ https://bunesky.github.io/avalon-symbol-audio/
 ## Notes
 Avalon is an ongoing experimental project focused on building a complete 3D world through modular assets, visual systems, original audio, and its own symbolic language and writing system. All content has been created with the support of AI. 
 
-Open for collaboration.
 
 
 ## Contact
