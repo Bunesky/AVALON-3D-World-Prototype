@@ -4,12 +4,13 @@
 11 Creatures (+1)  
 8 Flora Assets  
 16 Structures  
-4 Characters (Rigged)  
+4 Animated Characters   
 4 Ambient Audio  
 5 Tracks  
 2 Vertical Sequences  
 1 Font (Symbolic Script)  
 1 Audio Language Web App
+
 
 ![Preview](Preview.png)
 
@@ -22,11 +23,13 @@ YouTube Showcase & Audio:
 https://www.youtube.com/playlist?list=PLo5fLmIgPY1xbgTmO_U7H2xPNpFe5glVE
 
 Font:  
-https://github.com/Bunesky/avalon-symbol-font
+https://youtube.com/shorts/wGobCoHXBcc
 
 Web audio language app:  
-https://bunesky.github.io/avalon-symbol-audio/
+https://youtube.com/shorts/hp2eKLnb-mk
 
+A small playable showcase featuring four characters from the Avalon universe.
+https://bunesky.itch.io/avalon
 
 
 ## Notes
