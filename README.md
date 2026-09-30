@@ -10,6 +10,7 @@
 2 Vertical Sequences  
 1 Font (Symbolic Script)  
 1 Audio Language Web App
+
 1 Playable 3D Game (Character Showcase)
 
 ![Preview](Preview.png)
