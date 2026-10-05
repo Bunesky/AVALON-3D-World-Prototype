@@ -41,4 +41,4 @@ All content has been created with the support of AI.
 ## Contact
 
 Bluesky:  
-https://bsky.app/profile/bune.bsky.social
+@bune.bsky.social
